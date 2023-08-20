@@ -24,7 +24,7 @@ The Restaurant Website is a static website designed to provide visitors with inf
 
 ## Installation
 
-1. Clone this repository to your local machine using:https://github.com/Davidle30/Restaurantweb.git
+1. Clone this repository to your local machine using:https://github.com/Sa-na-yia-n/sanayianrestaurant.git
 
 
 2. Navigate to the project directory:
